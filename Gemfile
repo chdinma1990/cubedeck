@@ -42,6 +42,9 @@ gem 'jbuilder', '~> 2.5'
  gem 'figaro', '~> 1.0.0'
  #gem 'faraday', '~> 0.13.1'
 
+ # Use paperclip for image upload
+  gem 'paperclip', '~> 4.3.6'
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
